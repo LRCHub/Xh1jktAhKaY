@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "Kunst und Musik",
+  "base_artist": "Joost",
+  "createdAt": "2026-03-28T12:17:39.192041Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Kunst und Musik",
+      "artist": "Joost Klein",
+      "has_synced": true,
+      "path": "select/01_Kunst_und_Musik_Joost_Klein.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Kunst und Musik",
+      "artist": "Joost",
+      "has_synced": true,
+      "path": "select/02_Kunst_und_Musik_Joost.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Kunst und Musik",
+      "artist": "Joost",
+      "has_synced": true,
+      "path": "select/03_Kunst_und_Musik_Joost.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Kunst und Musik (Paused)",
+      "artist": "Joost",
+      "has_synced": true,
+      "path": "select/04_Kunst_und_Musik_(Paused)_Joost.lrc"
+    }
+  ]
+}
